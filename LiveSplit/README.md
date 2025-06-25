@@ -14,7 +14,7 @@ PaliaAutoSplitter.asl for the current version of Palia. If you use the wrong
 version of the script autosplitting *will not work*. 
 
 To enable the autosplitter, right-click -> Edit Layout. Click `+` to add a
-component and add a Component -> Scriptable Auto Splitter"
+component and add a Component -> Scriptable Auto Splitter
 
 Double-click Scriptable Auto Splitter in the layout editor. Under the
 Scriptable Auto Splitter tab, add the path to "PaliaAutoSplitter.asl"
