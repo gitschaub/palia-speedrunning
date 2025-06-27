@@ -41,10 +41,11 @@ If you encounter bugs, feel free to reach out on the Discord server and I can tr
 
 ### Steps for updating the Autosplitter
 
-<YouTube walkthrough coming soon>
+[Video tutorial](https://www.youtube.com/watch?v=DVE81pMa5Ys) for the steps
+outlined below.
 
 1. Find the address for character's X coordinate. 
-    a. The starting X value is 19430.  Do a "first scan" for exact Double value of 19430. 
+	a. The starting X value is 19430 (Double type).  Do a "first scan" for exact Double value of 19430. 
 	b. Walk forward and "next scan" for increased value, walk backward and "next scan" 
 	    for decreased value. Repeat until there are ~200 addresses.
     c. Add all addresses to your address list, and bulk edit values to find which one is
